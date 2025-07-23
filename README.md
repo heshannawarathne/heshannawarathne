@@ -1,14 +1,14 @@
 <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
     
 <h1 align="center">Hi 👋, I'm Heshan Nawarathne</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A Java Back-End developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshannawarathne&label=Profile%20views&color=0e75b6&style=flat" alt="heshannawarathne" /> </p>
 
 <p align="left"> <a href="https://twitter.com/HNawrathna" target="blank"><img src="https://img.shields.io/twitter/follow/HNawrathna?logo=twitter&style=for-the-badge" alt="HNawrathna" /></a> </p>
 <div align="left">
 
-- 🔭 I’m currently working on **BookyMS**
+- 🔭 I’m currently working on **ZoffY E commerce Web Application**
 
 - 👯 I’m looking to collaborate on **ZGenCRMS**
 
