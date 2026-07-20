@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=220&section=header&text=Heshan%20Nawarathne&fontSize=55&fontAlignY=38&desc=Java%20Back-End%20Developer%20|%20Microservices%20%26%20DevOps&descAlignY=62&descAlign=50" width="100%" />
+ 
 
   <!-- BADGES & SOCIALS -->
   <p>
@@ -49,15 +49,3 @@
 <hr />
 
 <!-- GITHUB STATS -->
-<div align="center">
-  <h2>GitHub Analytics</h2>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=heshannawarathne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshannawarathne&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=heshannawarathne&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
-</div>
