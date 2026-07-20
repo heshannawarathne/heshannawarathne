@@ -1,12 +1,17 @@
-<!-- HEADER BANNER -->
 <div align="center">
-  <h1>Heshan Nawarathne</h1>
-  <h3>Back-End Architect | Java | Spring Boot | Microservices</h3>
+  <!-- MODERN TYPOGRAPHIC HEADER BANNER -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=70&lines=Heshan+Nawarathne" alt="Heshan Nawarathne" />
+
+  <p align="center">
+    <code><b>Back-End Architect</b></code> • <code><b>Java</b></code> • <code><b>Spring Boot</b></code> • <code><b>Microservices</b></code>
+  </p>
+
+  <br />
 
   <!-- BADGES & SOCIALS -->
-  <p>
+  <p align="center">
     <a href="https://linkedin.com/in/heshan-nawarathne-1a621a247"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:pramodnawarathna0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="mailto:pramod.ndph@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
     <a href="https://x.com/HNawrathna"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   </p>
 </div>
