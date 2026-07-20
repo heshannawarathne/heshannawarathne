@@ -1,47 +1,63 @@
-<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
-    
-<h1 align="center">Hi 👋, I'm Heshan Nawarathne</h1>
-<h3 align="center">A Java Back-End developer from Sri Lanka</h3>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=220&section=header&text=Heshan%20Nawarathne&fontSize=55&fontAlignY=38&desc=Java%20Back-End%20Developer%20|%20Microservices%20%26%20DevOps&descAlignY=62&descAlign=50" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heshannawarathne&label=Profile%20views&color=0e75b6&style=flat" alt="heshannawarathne" /> </p>
+  <!-- BADGES & SOCIALS -->
+  <p>
+    <a href="https://linkedin.com/in/heshan-nawarathne-1a621a247"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:pramodnawarathna0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://x.com/HNawrathna"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/HNawrathna" target="blank"><img src="https://img.shields.io/twitter/follow/HNawrathna?logo=twitter&style=for-the-badge" alt="HNawrathna" /></a> </p>
-<div align="left">
+<br />
 
-- 🔭 I’m currently working on **ZoffY E commerce Web Application**
+<!-- ABOUT ME & ILLUSTRATION -->
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>About Me</h2>
+      <p>Passionate Back-End Developer specializing in building robust, scalable web applications and distributed architectures using Java and modern software engineering practices.</p>
+      <ul>
+        <li><b>Current Focus:</b> Developing the ZoffY E-Commerce Web Application</li>
+        <li><b>Collaboration:</b> Open to contributing to ZGenCRMS</li>
+        <li><b>Core Competencies:</b> Java, Spring Boot, Microservices & Back-End Architecture</li>
+        <li><b>Contact Email:</b> pramodnawarathna0@gmail.com</li>
+      </ul>
+    </td>
+   
+  </tr>
+</table>
 
-- 👯 I’m looking to collaborate on **ZGenCRMS**
+<hr />
 
-- 💬 Ask me about **HTML,CSS,JS,JAVA,REACT**
+<!-- TECH STACK -->
+<h2 align="center">Tech Stack & Tools</h2>
 
-- Hobbies **Music 🎧**
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge&logo=architecture&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
+</p>
 
-- 📫 How to reach me **pramodnawarathna0@gmail.com**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,git,github&perline=7" alt="Tech Stack Icons" />
+</p>
 
-- ⚡ Fun fact **Code ninja crafting digital dreams, one line at a time!**
+<hr />
 
----
+<!-- GITHUB STATS -->
+<div align="center">
+  <h2>GitHub Analytics</h2>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=heshannawarathne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshannawarathne&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</div>
+
+<br />
 
 <div align="center">
-    <h2 align="center">Used Technologies</h2>
-    <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">  
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
-    </div>
-
-___
-
-<div>
-  <h3>📱 Social Medias:</h3><br>
-    <a href="https://www.linkedin.com/in/heshan-nawarathne-1a621a247/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
- <a href="https://x.com/HNawrathna" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
-<a href="pramodnawarathna0@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/></a>
-
+  <img src="https://komarev.com/ghpvc/?username=heshannawarathne&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
 </div>
